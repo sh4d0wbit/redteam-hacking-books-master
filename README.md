@@ -1,6 +1,6 @@
 # hacking-books
 
-# News: 2022 Crack Update.
+# News: 2025 Crack Update.
 
 1. Android Security Fundamentals
 2. Attacking Network Protocols
@@ -17,3 +17,4 @@
 13. Silence On The Wire
 14. The Car Hacker's Handbook
 15. The Tangled Web
+16. Checklist Pentest Web
